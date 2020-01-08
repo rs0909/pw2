@@ -1,0 +1,40 @@
+{
+    "project_info": {
+        "project_number": "848724841938",
+        "firebase_url": "https://madcamp-4b2d5.firebaseio.com",
+        "project_id": "madcamp-4b2d5",
+        "storage_bucket": "madcamp-4b2d5.appspot.com"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:848724841938:android:3bac0ca9b3e406460b640b",
+                "android_client_info": {
+                    "package_name": "com.example.tab_widget"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "848724841938-tmo27qspt52qtses0ktcugv875mejcqu.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyACv-B0sVN-fja1EuUna93uursWa06q2mc"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [
+                        {
+                            "client_id": "848724841938-tmo27qspt52qtses0ktcugv875mejcqu.apps.googleusercontent.com",
+                            "client_type": 3
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
